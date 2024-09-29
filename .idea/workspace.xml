@@ -4,47 +4,112 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Alternativas.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/example/Alternativas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Aplication/Main.java" afterDir="false" />
+    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="Sistema de aleatoriedade das perguntas">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Alternativas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Exceptions/PerguntaNaoExisteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Opcoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Pergunta.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Pergunta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Quiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/QuizGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/QuizGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "robertoc4t"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/robertoc4t/ShowDoMilhao.git",
+    "accountId": "9b7252f4-e808-4a71-9590-2e0e4affa4dc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ml5JC24FdHQXcwrlApaPFyPKBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.Manager.Exception" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao" />
       <recent name="C:\Users\jose roberto\ShowDoMilhao" />
       <recent name="C:\Users\jose roberto\ShowDoMilhao\.idea" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Sistema de aleatoriedade das perguntas">
+      <option name="closed" value="true" />
+      <created>1727637991650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727637991650</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="Sistema de aleatoriedade das perguntas" />
+      <created>1727638250068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727638250068</updated>
+      <workItem from="1727638252719" duration="1445000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Sistema de aleatoriedade das perguntas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de aleatoriedade das perguntas" />
   </component>
 </project>
