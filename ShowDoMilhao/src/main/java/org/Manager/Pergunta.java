@@ -4,28 +4,21 @@ import java.util.Objects;
 
 public class Pergunta {
     private String pergunta;
-
-    private String aAlternativasA;
-    private String aAlternativasB;
-    private String aAlternativasC;
-    private String aAlternativasD;
+    private Opcoes opcoes;
 
     private String Resposta;
 
     public Pergunta() {
         this.pergunta = null;
-        this.aAlternativasA = null;
-        this.aAlternativasB = null;
-        this.aAlternativasC = null;
-        this.aAlternativasD = null;
+        this.opcoes = null;
     }
 
-    public void EscreverPergunta(String pergunta, Alternativas resposta) {
+    public void EscreverPergunta(String pergunta) {
         this.pergunta = pergunta;
-        this.resposta = resposta;
     }
-    public String exibirPergunta() {
-        return this.pergunta;
+
+    public void cadastraOpcao(String opcao) {
+        this.opcoes.addOpcao(opcao);
     }
 
     @Override
@@ -33,11 +26,20 @@ public class Pergunta {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Pergunta pergunta1 = (Pergunta) o;
-        return Objects.equals(pergunta, pergunta1.pergunta) && Objects.equals(resposta, pergunta1.resposta);
+        return Objects.equals(pergunta, pergunta1.pergunta) && Objects.equals(opcoes, pergunta1.opcoes) && Objects.equals(Resposta, pergunta1.Resposta);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(pergunta, resposta);
+        return Objects.hash(pergunta, opcoes, Resposta);
+    }
+
+    @Override
+    public String toString() {
+        return "Pergunta{" +
+                "pergunta='" + pergunta + '\'' +
+                ", opcoes=" + opcoes +
+                ", Resposta='" + Resposta + '\'' +
+                '}';
     }
 }
