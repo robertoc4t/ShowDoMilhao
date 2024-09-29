@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/.idea/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Alternativas.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/example/Alternativas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/QuizGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/src/main/java/org/Manager/QuizGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShowDoMilhao/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao" />
+      <recent name="C:\Users\jose roberto\ShowDoMilhao" />
+      <recent name="C:\Users\jose roberto\ShowDoMilhao\.idea" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
