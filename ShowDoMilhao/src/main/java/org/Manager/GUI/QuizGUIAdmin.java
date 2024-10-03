@@ -1,4 +1,4 @@
-package org.Manager;
+package org.Manager.GUI;
 
 import javax.swing.*;
 import java.awt.*;

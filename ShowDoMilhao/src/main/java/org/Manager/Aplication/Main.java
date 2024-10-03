@@ -2,7 +2,7 @@ package org.Manager.Aplication;
 
 import org.Manager.Pergunta;
 import org.Manager.Quiz;
-import org.Manager.QuizGUIAdmin;
+import org.Manager.GUI.QuizGUIAdmin;
 
 public class Main {
     public static void main(String[] args) {
