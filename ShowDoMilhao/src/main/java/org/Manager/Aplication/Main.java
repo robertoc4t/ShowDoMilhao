@@ -2,11 +2,10 @@ package org.Manager.Aplication;
 
 import org.Manager.Pergunta;
 import org.Manager.Quiz;
-import org.Manager.GUI.QuizGUIAdmin;
 
 public class Main {
     public static void main(String[] args) {
-        QuizGUIAdmin quizGUI = new QuizGUIAdmin();
+        Quiz.QuizGUIAdmin quizGUI = new Quiz.QuizGUIAdmin();
         Quiz quiz = new Quiz();
         Pergunta pergunta1 = new Pergunta();
         pergunta1.EscreverPergunta("Qual a cor do ceu?");
