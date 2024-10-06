@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="mecanica de opções ainda não está 100% funcional" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;robertoc4t&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/robertoc4t/ShowDoMilhao.git&quot;,
+    &quot;accountId&quot;: &quot;9b7252f4-e808-4a71-9590-2e0e4affa4dc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ml5JC24FdHQXcwrlApaPFyPKBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.Manager.Exception" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao" />
+      <recent name="C:\Users\jose roberto\ShowDoMilhao" />
+      <recent name="C:\Users\jose roberto\ShowDoMilhao\.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Sistema de aleatoriedade das perguntas">
+      <option name="closed" value="true" />
+      <created>1727637991650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727637991650</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="Sistema de aleatoriedade das perguntas" />
+      <created>1727638250068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727638250068</updated>
+      <workItem from="1727638252719" duration="4285000" />
+      <workItem from="1727642587404" duration="1078000" />
+      <workItem from="1727643690525" duration="1891000" />
+      <workItem from="1727822288522" duration="1128000" />
+      <workItem from="1727992254425" duration="1671000" />
+      <workItem from="1727993953653" duration="84000" />
+      <workItem from="1727994038956" duration="695000" />
+      <workItem from="1727998943866" duration="150000" />
+    </task>
+    <task id="LOCAL-00002" summary="Mudaça da mecanica de funcionamento das Alternativas">
+      <option name="closed" value="true" />
+      <created>1727639877058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727639877058</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exclui uma imagem disnecessario">
+      <option name="closed" value="true" />
+      <created>1727640068858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727640068858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mecanica de opções ainda não está 100% funcional">
+      <option name="closed" value="true" />
+      <created>1727649885364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727649885364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="Sistema de aleatoriedade das perguntas" />
+    <MESSAGE value="Mudaça da mecanica de funcionamento das Alternativas" />
+    <MESSAGE value="Exclui uma imagem disnecessario" />
+    <MESSAGE value="mecanica de opções ainda não está 100% funcional" />
+    <option name="LAST_COMMIT_MESSAGE" value="mecanica de opções ainda não está 100% funcional" />
+  </component>
+</project>

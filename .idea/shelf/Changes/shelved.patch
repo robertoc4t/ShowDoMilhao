@@ -1,0 +1,134 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n        <option value=\"$PROJECT_DIR$/ShowDoMilhao/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"21\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision d704e1fea958caf42b736d9a356465e5f50c16fa)
++++ b/.idea/misc.xml	(date 1728179986068)
+@@ -6,6 +6,7 @@
+       <list>
+         <option value="$PROJECT_DIR$/pom.xml" />
+         <option value="$PROJECT_DIR$/ShowDoMilhao/pom.xml" />
++        <option value="$PROJECT_DIR$/ShowDoMilhao/ShowDoMilhao/pom.xml" />
+       </list>
+     </option>
+   </component>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c6778fa2-c3f6-44c1-b016-fc0c2438183c\" name=\"Changes\" comment=\"GUI recolocada\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Exception\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;robertoc4t&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/robertoc4t/ShowDoMilhao.git&quot;,\r\n    &quot;accountId&quot;: &quot;9b7252f4-e808-4a71-9590-2e0e4affa4dc&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ml5JC24FdHQXcwrlApaPFyPKBj\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.Main.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/jose roberto/Downloads/So&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateClassDialog.RecentsKey\">\r\n      <recent name=\"org.Manager.Exception\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\jose roberto\\ShowDoMilhao\\ShowDoMilhao\" />\r\n      <recent name=\"C:\\Users\\jose roberto\\ShowDoMilhao\\ShowDoMilhao\\ShowDoMilhao\" />\r\n      <recent name=\"C:\\Users\\jose roberto\\ShowDoMilhao\" />\r\n      <recent name=\"C:\\Users\\jose roberto\\ShowDoMilhao\\.idea\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task id=\"LOCAL-00001\" summary=\"Sistema de aleatoriedade das perguntas\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727637991650</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727637991650</updated>\r\n    </task>\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c6778fa2-c3f6-44c1-b016-fc0c2438183c\" name=\"Changes\" comment=\"Sistema de aleatoriedade das perguntas\" />\r\n      <created>1727638250068</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727638250068</updated>\r\n      <workItem from=\"1727638252719\" duration=\"4285000\" />\r\n      <workItem from=\"1727642587404\" duration=\"1078000\" />\r\n      <workItem from=\"1727643690525\" duration=\"1891000\" />\r\n      <workItem from=\"1727822288522\" duration=\"1128000\" />\r\n      <workItem from=\"1727992254425\" duration=\"1671000\" />\r\n      <workItem from=\"1727993953653\" duration=\"84000\" />\r\n      <workItem from=\"1727994038956\" duration=\"695000\" />\r\n      <workItem from=\"1727998943866\" duration=\"150000\" />\r\n      <workItem from=\"1727999098472\" duration=\"1377000\" />\r\n      <workItem from=\"1728001252154\" duration=\"15000\" />\r\n      <workItem from=\"1728001298798\" duration=\"22000\" />\r\n      <workItem from=\"1728001668967\" duration=\"70000\" />\r\n      <workItem from=\"1728001740090\" duration=\"304000\" />\r\n      <workItem from=\"1728178537673\" duration=\"78000\" />\r\n      <workItem from=\"1728178619169\" duration=\"83000\" />\r\n      <workItem from=\"1728178717195\" duration=\"43000\" />\r\n      <workItem from=\"1728178779427\" duration=\"907000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Mudaça da mecanica de funcionamento das Alternativas\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727639877058</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727639877058</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Exclui uma imagem disnecessario\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727640068858</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727640068858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"mecanica de opções ainda não está 100% funcional\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727649885364</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727649885364</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"mecanica de opções ainda não está 100% funcional\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727999329120</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727999329120</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"GUI\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727999385932</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727999385932</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"GUI recolocada\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728179075953</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728179075953</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"GUI recolocada\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728179427390</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728179427390</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\".\" />\r\n    <MESSAGE value=\"Sistema de aleatoriedade das perguntas\" />\r\n    <MESSAGE value=\"Mudaça da mecanica de funcionamento das Alternativas\" />\r\n    <MESSAGE value=\"Exclui uma imagem disnecessario\" />\r\n    <MESSAGE value=\"mecanica de opções ainda não está 100% funcional\" />\r\n    <MESSAGE value=\"GUI\" />\r\n    <MESSAGE value=\"GUI recolocada\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"GUI recolocada\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d704e1fea958caf42b736d9a356465e5f50c16fa)
++++ b/.idea/workspace.xml	(date 1728183267206)
+@@ -4,7 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="GUI recolocada" />
++    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="GUI recolocada">
++      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -42,30 +46,32 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jose roberto/Downloads/So&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.Main.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "main",
++    "ignore.virus.scanning.warn.message": "true",
++    "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "C:/Users/jose roberto/Downloads/So",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="org.Manager.Exception" />
+     </key>
+     <key name="MoveFile.RECENT_KEYS">
+-      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao" />
+       <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao\ShowDoMilhao" />
++      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao" />
++      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao\.idea" />
++      <recent name="C:\Users\jose roberto\ShowDoMilhao\ShowDoMilhao\ShowDoMilhao\target" />
+       <recent name="C:\Users\jose roberto\ShowDoMilhao" />
+-      <recent name="C:\Users\jose roberto\ShowDoMilhao\.idea" />
+     </key>
+   </component>
+   <component name="SharedIndexes">
+@@ -109,6 +115,7 @@
+       <workItem from="1728178619169" duration="83000" />
+       <workItem from="1728178717195" duration="43000" />
+       <workItem from="1728178779427" duration="907000" />
++      <workItem from="1728179705043" duration="1053000" />
+     </task>
+     <task id="LOCAL-00002" summary="Mudaça da mecanica de funcionamento das Alternativas">
+       <option name="closed" value="true" />
+@@ -166,7 +173,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1728179427390</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="GUI recolocada">
++      <option name="closed" value="true" />
++      <created>1728179979954</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1728179979954</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Encoding\">\r\n    <file url=\"file://$PROJECT_DIR$/ShowDoMilhao/src/main/java\" charset=\"UTF-8\" />\r\n    <file url=\"file://$PROJECT_DIR$/ShowDoMilhao/src/main/resources\" charset=\"UTF-8\" />\r\n    <file url=\"file://$PROJECT_DIR$/src/main/java\" charset=\"UTF-8\" />\r\n    <file url=\"file://$PROJECT_DIR$/src/main/resources\" charset=\"UTF-8\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+--- a/.idea/encodings.xml	(revision d704e1fea958caf42b736d9a356465e5f50c16fa)
++++ b/.idea/encodings.xml	(date 1728179986073)
+@@ -1,6 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/ShowDoMilhao/ShowDoMilhao/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/ShowDoMilhao/ShowDoMilhao/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/ShowDoMilhao/src/main/java" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/ShowDoMilhao/src/main/resources" charset="UTF-8" />
+     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
