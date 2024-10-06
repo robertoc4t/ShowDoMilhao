@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="GUI">
+    <list default="true" id="c6778fa2-c3f6-44c1-b016-fc0c2438183c" name="Changes" comment="GUI recolocada">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +109,7 @@
       <workItem from="1728178537673" duration="78000" />
       <workItem from="1728178619169" duration="83000" />
       <workItem from="1728178717195" duration="43000" />
+      <workItem from="1728178779427" duration="625000" />
     </task>
     <task id="LOCAL-00002" summary="Mudaça da mecanica de funcionamento das Alternativas">
       <option name="closed" value="true" />
@@ -150,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727999385932</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="GUI recolocada">
+      <option name="closed" value="true" />
+      <created>1728179075953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728179075953</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +172,7 @@
     <MESSAGE value="Exclui uma imagem disnecessario" />
     <MESSAGE value="mecanica de opções ainda não está 100% funcional" />
     <MESSAGE value="GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI" />
+    <MESSAGE value="GUI recolocada" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI recolocada" />
   </component>
 </project>
